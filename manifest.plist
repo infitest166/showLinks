@@ -2,26 +2,31 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>compileBitcode</key>
-	<true/>
-	<key>manifest</key>
-	<dict>
-		<key>appURL</key>
-		<string>http://ios.sports-hg.com/ios/RSSports.ipa</string>
-		<key>displayImageURL</key>
-		<string>http://ios.sports-hg.com/ios/image_57x57.png</string>
-		<key>fullSizeImageURL</key>
-		<string>http://ios.sports-hg.com/ios/image_512x512.png</string>
-	</dict>
-	<key>method</key>
-	<string>enterprise</string>
-	<key>signingStyle</key>
-	<string>automatic</string>
-	<key>stripSwiftSymbols</key>
-	<true/>
-	<key>teamID</key>
-	<string>3NN87GWMK7</string>
-	<key>thinning</key>
-	<string>&lt;thin-for-all-variants&gt;</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://ios.sports-hg.com/ios/RSSports.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.fnst.smartwork</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>RSSports.ipa</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
+
