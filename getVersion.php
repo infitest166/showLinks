@@ -2,7 +2,7 @@
   
 $data = array(
   'tid' => 100, 
-  'app_version' => '标哥的技术博客',
+  'app_version' => '1.0.0',
   'url' => 'itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/infitest166/showLinks/master/manifest.plist');
    
 $response = array(
