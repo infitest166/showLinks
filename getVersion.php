@@ -12,3 +12,4 @@ $response = array(
   );
   
 echojson_encode($response);
+?>
