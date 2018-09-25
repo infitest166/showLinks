@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>timor.com.SkySports</string>
+				<string>crown.GJSports</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SkySports.ipa</string>
+				<string>Crown.ipa</string>
 			</dict>
 		</dict>
 	</array>
